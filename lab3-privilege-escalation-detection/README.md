@@ -14,7 +14,7 @@ Splunk by monitoring Windows Security Event IDs 4728 and 4672.
 ## What is Privilege Escalation?
 Privilege escalation is a technique used by attackers after 
 gaining initial access to a system. The attacker attempts to 
-gain higher level permissions — typically Administrator — to 
+gain higher level permissions ,typically Administrator , to 
 take full control of the machine.
 
 This maps to MITRE ATT&CK: T1078 - Valid Accounts and 
